@@ -42,6 +42,15 @@ Each project includes:
 
 ---
 
+💙 About Me
+
+Arshi Ranjan
+Undergraduate Student, UNC–Chapel Hill
+Interested in Data Science, AI, and Mobile Development
+🔗 [LinkedIn](https://www.linkedin.com/in/arshiranjan/)
+
+ <p align="center">🐏 Go Heels! 🐏</p>
+
 ## 💻 Run Locally
 To explore or build a project:
 1. Clone this repository  
